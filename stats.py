@@ -3,4 +3,4 @@ def mean(vals):
 	length = len(vals)
 	return total/length
 
-mean([2 4])
+# print mean([2,4])
