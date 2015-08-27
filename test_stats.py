@@ -1,4 +1,5 @@
 from stats import mean
+from nose.tools import assert_equal
 
 def test_mean():
         assert_equal(mean([2,4]), 3)
